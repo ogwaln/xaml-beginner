@@ -1,0 +1,46 @@
+﻿<Page
+    x:Class="RestuarantManager.UniversalWindows.OrderPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:RestuarantManager.UniversalWindows"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Page.TopAppBar>
+        <AppBar>
+            <StackPanel Orientation="Horizontal">
+                <AppBarButton Icon="Home" Label="Home" Click="AppBarButton_Click"></AppBarButton>
+            </StackPanel>
+        </AppBar>
+    </Page.TopAppBar>
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.45*"/>
+            <ColumnDefinition Width="0.3*"/>
+            <ColumnDefinition Width="0.25*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.2*"/>
+            <RowDefinition Height="0.2*"/>
+            <RowDefinition Height="0.5*"/>
+            <RowDefinition Height="0.1*"/>
+            <RowDefinition Height="0.1*"/>
+        </Grid.RowDefinitions>
+        <!--<CommandBar Grid.ColumnSpan="3" FlowDirection="RightToLeft">
+            <AppBarButton Icon="Home" Label="Home" Click="AppBarButton_Click" />
+        </CommandBar>-->
+        <TextBlock x:Name="tbklSpecialRequests" Grid.Column="1" HorizontalAlignment="Left" Grid.Row="1" 
+                   TextWrapping="Wrap" Text="Special Requests:" VerticalAlignment="Top"/>
+        <TextBlock x:Name="tblkOrderItems" Grid.Column="2" HorizontalAlignment="Left" Grid.Row="1" 
+                   TextWrapping="Wrap" Text="Order Items:" VerticalAlignment="Top"/>
+        <Button x:Name="btnAddToOrder" HorizontalAlignment="Center" Grid.Row="4" 
+                   Content="Add to Order" VerticalAlignment="Center"/>
+        <Button x:Name="btnSubmitOrder" Grid.Column="1" Grid.ColumnSpan="2" 
+                   HorizontalAlignment="Center" Grid.Row="4" 
+                   Content="Submit Order" VerticalAlignment="Center"/>
+        <ListView x:Name="lvAddToOrder"  Grid.Row="2" Margin="5" />
+        <ListView x:Name="lvOrderItems"  
+                  Grid.Row="2" Grid.Column="2" Margin="5" />
+
+    </Grid>
+</Page>
