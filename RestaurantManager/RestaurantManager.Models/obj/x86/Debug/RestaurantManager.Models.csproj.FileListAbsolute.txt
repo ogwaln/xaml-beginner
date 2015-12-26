@@ -1,0 +1,17 @@
+C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module4\Homework\RestaurantManager\RestaurantManager.Models\bin\x86\Debug\RestaurantManager.Models.dll
+C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module4\Homework\RestaurantManager\RestaurantManager.Models\bin\x86\Debug\RestaurantManager.Models.pdb
+C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module4\Homework\RestaurantManager\RestaurantManager.Models\bin\x86\Debug\RestaurantManager.Models.pri
+C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module4\Homework\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\RestaurantManager.Models.csprojResolveAssemblyReference.cache
+C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module4\Homework\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\RestaurantManager.Models.dll
+C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module4\Homework\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\RestaurantManager.Models.pdb
+C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module4\Homework\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\priconfig.xml
+C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module4\Homework\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\priconfig.xml.intermediate
+C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module4\Homework\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\layout.resfiles
+C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module4\Homework\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\layout.resfiles.intermediate
+C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module4\Homework\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\resources.resfiles
+C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module4\Homework\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\resources.resfiles.intermediate
+C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module4\Homework\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\pri.resfiles
+C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module4\Homework\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\pri.resfiles.intermediate
+C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module4\Homework\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\qualifiers.txt
+C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module4\Homework\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module4\Homework\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt

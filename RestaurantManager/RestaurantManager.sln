@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantManager.UniversalWindows", "RestaurantManager.UniversalWindows\RestaurantManager.UniversalWindows.csproj", "{0BF7EEBC-6EC4-4BCB-BA43-A82871F2A977}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantManager.Models", "RestaurantManager.Models\RestaurantManager.Models.csproj", "{1030CF29-FC78-4C2C-A2C7-62E8A161DD2C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,22 @@ Global
 		{0BF7EEBC-6EC4-4BCB-BA43-A82871F2A977}.Release|x86.ActiveCfg = Release|x86
 		{0BF7EEBC-6EC4-4BCB-BA43-A82871F2A977}.Release|x86.Build.0 = Release|x86
 		{0BF7EEBC-6EC4-4BCB-BA43-A82871F2A977}.Release|x86.Deploy.0 = Release|x86
+		{1030CF29-FC78-4C2C-A2C7-62E8A161DD2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1030CF29-FC78-4C2C-A2C7-62E8A161DD2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1030CF29-FC78-4C2C-A2C7-62E8A161DD2C}.Debug|ARM.ActiveCfg = Debug|ARM
+		{1030CF29-FC78-4C2C-A2C7-62E8A161DD2C}.Debug|ARM.Build.0 = Debug|ARM
+		{1030CF29-FC78-4C2C-A2C7-62E8A161DD2C}.Debug|x64.ActiveCfg = Debug|x64
+		{1030CF29-FC78-4C2C-A2C7-62E8A161DD2C}.Debug|x64.Build.0 = Debug|x64
+		{1030CF29-FC78-4C2C-A2C7-62E8A161DD2C}.Debug|x86.ActiveCfg = Debug|x86
+		{1030CF29-FC78-4C2C-A2C7-62E8A161DD2C}.Debug|x86.Build.0 = Debug|x86
+		{1030CF29-FC78-4C2C-A2C7-62E8A161DD2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1030CF29-FC78-4C2C-A2C7-62E8A161DD2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1030CF29-FC78-4C2C-A2C7-62E8A161DD2C}.Release|ARM.ActiveCfg = Release|ARM
+		{1030CF29-FC78-4C2C-A2C7-62E8A161DD2C}.Release|ARM.Build.0 = Release|ARM
+		{1030CF29-FC78-4C2C-A2C7-62E8A161DD2C}.Release|x64.ActiveCfg = Release|x64
+		{1030CF29-FC78-4C2C-A2C7-62E8A161DD2C}.Release|x64.Build.0 = Release|x64
+		{1030CF29-FC78-4C2C-A2C7-62E8A161DD2C}.Release|x86.ActiveCfg = Release|x86
+		{1030CF29-FC78-4C2C-A2C7-62E8A161DD2C}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

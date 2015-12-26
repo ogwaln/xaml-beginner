@@ -30,17 +30,18 @@
             <AppBarButton Icon="Home" Label="Home" Click="AppBarButton_Click" />
         </CommandBar>-->
         <TextBlock x:ConnectionId='2' x:Name="tbklSpecialRequests" Grid.Column="1" HorizontalAlignment="Left" Grid.Row="1" 
-                   TextWrapping="Wrap" Text="Special Requests:" VerticalAlignment="Top"/>
+                   Text="Special Requests:" VerticalAlignment="Top"/>
         <TextBlock x:ConnectionId='3' x:Name="tblkOrderItems" Grid.Column="2" HorizontalAlignment="Left" Grid.Row="1" 
-                   TextWrapping="Wrap" Text="Order Items:" VerticalAlignment="Top"/>
+                   Text="Order Items:" VerticalAlignment="Top"/>
         <Button x:ConnectionId='4' x:Name="btnAddToOrder" HorizontalAlignment="Center" Grid.Row="4" 
-                   Content="Add to Order" VerticalAlignment="Center"/>
+                   Content="Add to Order" VerticalAlignment="Center" />
         <Button x:ConnectionId='5' x:Name="btnSubmitOrder" Grid.Column="1" Grid.ColumnSpan="2" 
                    HorizontalAlignment="Center" Grid.Row="4" 
                    Content="Submit Order" VerticalAlignment="Center"/>
-        <ListView x:ConnectionId='6' x:Name="lvAddToOrder"  Grid.Row="2" Margin="5" />
-        <ListView x:ConnectionId='7' x:Name="lvOrderItems"  
-                  Grid.Row="2" Grid.Column="2" Margin="5" />
+        <ListView x:ConnectionId='6' x:Name="lvAddToOrder"  Grid.Row="2" Margin="5"
+                  ItemsSource="{Binding MenuItems, Source={StaticResource DataManager}}" />
+        <ListView x:ConnectionId='7' x:Name="lvOrderItems" Grid.Row="2" Grid.Column="2" Margin="5" 
+                  ItemsSource="{Binding CurrentlySelectedMenuItems, Source={StaticResource DataManager}}" />
 
     </Grid>
 </Page>

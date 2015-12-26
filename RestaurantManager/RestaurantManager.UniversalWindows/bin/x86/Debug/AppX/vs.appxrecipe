@@ -9,7 +9,7 @@
     <SolutionConfiguration>Debug|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>9a926498-09f4-41b8-9875-95b8bb099019</PackageIdentityName>
-    <IntermediateOutputPath>C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module3\Homework\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module4\Homework\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Debug\</IntermediateOutputPath>
     <RegisteredManifestChecksum>CC9FB58FB7C2282E48BBF218A352F611AC8F37FE5CEA48436E63D68A5AB16BA7</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>9a926498-09f4-41b8-9875-95b8bb099019_1.0.0.0_x86__3t0zt446drwr4</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>9a926498-09f4-41b8-9875-95b8bb099019_3t0zt446drwr4!App</RegisteredUserModeAppID>
@@ -19,16 +19,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module3\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module4\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-12-24T22:59:42.111</Modified>
+      <Modified>2015-12-26T20:42:44.432</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module3\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\RestaurantManager.UniversalWindows.exe">
+    <AppxPackagedFile Include="C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module4\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\RestaurantManager.UniversalWindows.exe">
       <PackagePath>entrypoint\RestaurantManager.UniversalWindows.exe</PackagePath>
-      <Modified>2015-12-24T22:59:37.844</Modified>
+      <Modified>2015-12-26T20:42:42.259</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Nicholas\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -442,58 +442,62 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2015-12-22T18:26:10.242</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module3\Homework\RestaurantManager\RestaurantManager.UniversalWindows\Assets\LargeSquareLogo.png">
+    <AppxPackagedFile Include="C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module4\Homework\RestaurantManager\RestaurantManager.Models\bin\x86\Debug\RestaurantManager.Models.dll">
+      <PackagePath>RestaurantManager.Models.dll</PackagePath>
+      <Modified>2015-12-26T20:41:39.606</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module4\Homework\RestaurantManager\RestaurantManager.UniversalWindows\Assets\LargeSquareLogo.png">
       <PackagePath>Assets\LargeSquareLogo.png</PackagePath>
       <Modified>2015-12-24T22:52:46.794</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module3\Homework\RestaurantManager\RestaurantManager.UniversalWindows\Assets\SmallSquareLogo.png">
+    <AppxPackagedFile Include="C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module4\Homework\RestaurantManager\RestaurantManager.UniversalWindows\Assets\SmallSquareLogo.png">
       <PackagePath>Assets\SmallSquareLogo.png</PackagePath>
       <Modified>2015-12-24T22:52:46.838</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module3\Homework\RestaurantManager\RestaurantManager.UniversalWindows\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module4\Homework\RestaurantManager\RestaurantManager.UniversalWindows\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-12-24T22:52:46.869</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module3\Homework\RestaurantManager\RestaurantManager.UniversalWindows\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module4\Homework\RestaurantManager\RestaurantManager.UniversalWindows\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-12-24T22:52:46.794</Modified>
+      <Modified>2015-12-24T22:52:46.869</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module3\Homework\RestaurantManager\RestaurantManager.UniversalWindows\Assets\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module4\Homework\RestaurantManager\RestaurantManager.UniversalWindows\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-12-24T22:52:46.794</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module3\Homework\RestaurantManager\RestaurantManager.UniversalWindows\Assets\Square44x44Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module4\Homework\RestaurantManager\RestaurantManager.UniversalWindows\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-12-24T22:52:46.838</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module3\Homework\RestaurantManager\RestaurantManager.UniversalWindows\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module4\Homework\RestaurantManager\RestaurantManager.UniversalWindows\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-12-24T22:52:46.873</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module3\Homework\RestaurantManager\RestaurantManager.UniversalWindows\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module4\Homework\RestaurantManager\RestaurantManager.UniversalWindows\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2015-12-24T18:28:13.387</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module3\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\RestaurantManager.UniversalWindows.xr.xml">
+    <AppxPackagedFile Include="C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module4\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\RestaurantManager.UniversalWindows.xr.xml">
       <PackagePath>RestaurantManager.UniversalWindows.xr.xml</PackagePath>
-      <Modified>2015-12-24T22:59:37.641</Modified>
+      <Modified>2015-12-26T19:59:10.613</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2015-12-22T19:38:13.130</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module3\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module4\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-12-24T22:59:40.758</Modified>
+      <Modified>2015-12-26T20:42:43.650</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module3\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\RestaurantManager.UniversalWindows.exe">
+    <AppxPackagedFile Include="C:\Docs\Training\edX\IntroToXAMLAndAppDev\Module4\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\RestaurantManager.UniversalWindows.exe">
       <PackagePath>RestaurantManager.UniversalWindows.exe</PackagePath>
-      <Modified>2015-12-24T22:59:42.106</Modified>
+      <Modified>2015-12-26T20:42:44.429</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

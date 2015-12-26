@@ -140,6 +140,12 @@
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\RestaurantManager.Models\RestaurantManager.Models.csproj">
+      <Project>{1030cf29-fc78-4c2c-a2c7-62e8a161dd2c}</Project>
+      <Name>RestaurantManager.Models</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>
   </PropertyGroup>

@@ -1,4 +1,5 @@
-﻿using RestaurantManager.UniversalWindows;
+﻿using RestaurantManager.Models;
+using RestaurantManager.UniversalWindows;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -23,7 +24,6 @@ namespace RestuarantManager.UniversalWindows
     /// </summary>
     public sealed partial class OrderPage : Page
     {
-
         private void AppBarButton_Click(object sender, RoutedEventArgs e)
         {
             Frame.Navigate(typeof(MainPage));
